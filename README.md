@@ -4,7 +4,7 @@ Welcome to the **ultimate JavaScript playground**! 🎉 This assignment is where
 
 ## 📁 Assignment Structure
 
-```
+```md
 📂 js-event-assignment/
 ├── index.html         # Your playground – where it all comes together
 ├── style.css          # Keep it cute (optional but encouraged)
@@ -18,18 +18,21 @@ Welcome to the **ultimate JavaScript playground**! 🎉 This assignment is where
 Here’s what your interactive bundle of joy should include:
 
 ### 1. Event Handling 🎈  
+
 - Button click ✅  
 - Hover effects ✅  
 - Keypress detection ✅  
 - Bonus: A secret action for a *double-click* or *long press* 🤫
 
 ### 2. Interactive Elements 🎮  
+
 - A button that changes text or color  
 - An image gallery or slideshow  
 - Tabs or accordion-style content  
 - Bonus: Add some animation using JS or CSS ✨
 
 ### 3. Form Validation 📋✅  
+
 - Required field checks  
 - Email format validation  
 - Password rules (e.g., min 8 characters)  
@@ -45,7 +48,7 @@ Here’s what your interactive bundle of joy should include:
 
 ---
 
-## 🎉 Now Go Make It Fun!
+## 🎉 Now Go Make It Fun
 
 Remember – this isn't just code. It's your **first step toward creating magical user experiences**. So play around, break stuff (then fix it), and most of all, have FUN! 😄
 
